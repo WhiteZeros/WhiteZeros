@@ -13,6 +13,7 @@
 - Codeforces: https://codeforces.com/profile/phannguyenquocbao
 
 🏃Thể dục thể thao: thích chạy bộ, đi bộ, chống đẩy
+
 🎸biết chơi guitar để thư giãn, giải trí 
 
 📱Liên hệ : 0979730457
