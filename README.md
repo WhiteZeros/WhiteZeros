@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Xin chào! Tôi là Phan Nguyễn Quốc Bảo 
 
-<!--
-**WhiteZeros/WhiteZeros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Sinh viên ngành Khoa học Máy tính tại trường Đại Học Công Nghệ Thông Tin
+💻 Yêu thích lập trình, công nghệ mới và AI
+🏆Thành tích cơ bản :
+- Giải ba Quốc Gia môn tin học 
+- Giải khuyến khích Quốc Gia môn tin học 
+- 🥇🥇🥇3 năm liên tiếp đạt giải nhất Tỉnh môn tin học
+- 🥇Huy chương vàng Olympic 30/4 
+- 🥉Huy chương đồng Olympic 30/4 
+📚 Học tập 
+- VNOI : https://oj.vnoi.info/user/phannguyenquocbao
+- Codeforces: https://codeforces.com/profile/phannguyenquocbao
+🏃Thể dục thể thao: thích chạy bộ, đi bộ, chống đẩy
+🎸biết chơi guitar để thư giãn, giải trí 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📱Liên hệ : 0979730457
+📫Email : bichbao0306@gmail.com
+🌐Facebook:https://www.facebook.com/phannguyenquoc.bao.5
